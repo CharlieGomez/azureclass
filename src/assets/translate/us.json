@@ -1,0 +1,98 @@
+{
+    "about": "About",
+    "skills": "Skills",
+    "portfolio": "Portfolio",
+    "experience": "Experience",
+    "contact": "Contact",
+    "information": "Information",
+    "progSkill": "Skills",
+    "otherSkill": "Other Skills",
+    "wExperience": "Work Experience",
+    "course": "Courses",
+    "profile": {
+        "cedula": "Practitioner Lic. 10217032",
+        "language": "Spanish, English",
+        "about": "Enthusiastic software developer with more than 5 years of experience in the analysis, development, implementation, testing and maintenance of web, desktop and mobile applications for the oil industry with .NET technologies, passionate about new technologies, at BMPI we develop an application To generate reports with ASME standards, the generation time of a report was shortened by 75%.",
+        "expirence": [{
+                "title": "Microsip Manager",
+                "time": "Dic 2018 - Abr 2020",
+                "company": [{
+                        "name": "BUFETE DE MANTENIMIENTO PREDICTIVO INDUSTRIAL",
+                        "website": "https://www.bmpindustrial.com"
+                    },
+                    {
+                        "name": "VEGGIES HEALTH DE MÉXICO",
+                        "website": "https://www.veggies.mx"
+                    }
+                ],
+                "summary": [
+                    "Training for personnel in the use of different modules presented by the Microsip system.",
+                    "Notification of the updates that will be applied to the system and changes in the process.",
+                    "Applying updates to staff computers.",
+                    "System, server and database usage monitoring.",
+                    "Analysis and development of automatic application for information synchronization in the different companies of the corporate applying .NET Core, EntityFramework Core, Firebird, SQL Server.",
+                    "Backup generation of the different databases.",
+                    "Administration and updates of the different permits for personnel.",
+                    "Analysis and preparation of dashboard of financial statements, purchases, invoices, expenses, costs, payroll of the different accounts of the company using EntityFramework Core, Firebird, MariaDB, Data Studio Google.",
+                    "Management of company stamp accounts.",
+                    "Follow-up to doubts the staff and improvements in the internal process.",
+                    "Administration of the websites."
+                ]
+            },
+            {
+                "title": "Senior Developer",
+                "time": "Oct 2017 - Abr 2020",
+                "company": [{
+                    "name": "BUFETE DE MANTENIMIENTO PREDICTIVO E INGENIERÍA",
+                    "website": "https://www.bmpi.com.mx"
+                }],
+                "summary": [
+                    "Analysis and development of object-oriented software for internal and external use of onboard personnel for the analysis, calculations and presentation of life status reporting, measurements of offshore and onshore equipment applying various specialties of non-destructive testing.",
+                    "Analysis and development of software for the administrative control of service orders, personnel, clients, udcs, budgets and finances.",
+                    "Database management and optimizations in SQL Server, Firebird, MySQL.",
+                    "Elaboration of workflow diagrams and Gantt charts to demonstrate the processes.",
+                    "Monitoring of databases, systems and maintenance of servers.",
+                    "Design, implementation and monitoring of web pages and sites for continuous improvement.",
+                    "Coordination of personnel to carry out activities in the systems.",
+                    "Management of the attention to users for doubts, clarifications and / or support to use of the systems.",
+                    "Approach with staff or clients to make improvements to the systems.",
+                    "Travel to the locations or sectors where you will find the client or staff.",
+                    "Training for staff on the use of the system and on the updates made.",
+                    "Operations were improved with the use of the systems and excellent support was provided to staff or customers.",
+                    "Development of modules for the administrative and operational area.",
+                    "Analysis and development of financial, banking, purchasing dashboards.",
+                    "Administrator of the corporate web, desktops, remote systems."
+                ]
+            },
+            {
+                "title": "Junior Developer",
+                "time": "Oct 2015 - Oct 2017",
+                "company": [{
+                    "name": "BUFETE DE MANTENIMIENTO PREDICTIVO E INGENIERÍA",
+                    "website": "https://www.bmpi.com.mx"
+                }],
+                "summary": [
+                    "Warehouse module development for internal system.",
+                    "Development of prototype screens (Mock-up).",
+                    "Generating database queries in SQL Server.",
+                    "Elaboration of data structures.",
+                    "Desktop application development.",
+                    "Development of web pages and internal systems.",
+                    "Generation of tests to the systems carried out."
+                ]
+            },
+            {
+                "title": "Professional Practices",
+                "time": "Abr 2015 - Oct 2015",
+                "company": [{
+                    "name": "MEGASIS",
+                    "website": "https://www.megasis.com.mx"
+                }],
+                "summary": [
+                    "Development of a module to obtain information such as price, item description, item, id, from supplier catalogs for filling and updating the system itself with Pyhton.",
+                    "Website development with PHP."
+                ]
+            }
+        ]
+    }
+}

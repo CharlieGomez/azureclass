@@ -1,0 +1,102 @@
+@import "~@ng-select/ng-select/themes/default.theme.css";
+/* You can add global styles to this file, and also import other style files */
+.profile-page .title {
+  text-transform: uppercase;
+}
+
+.bg-principal {
+  background-color: #10206B !important;
+}
+
+.progress-container.progress-principal .progress {
+  background: rgba(16, 32, 107, 0.3);
+}
+
+.progress-container.progress-principal .progress-bar {
+  background: #10206B;
+}
+
+.progress-container.progress-principal .progress-value,
+.progress-container.progress-principal .progress-badge {
+  color: #070d29;
+}
+
+.navbar .navbar-nav .nav-item select {
+  color: #FFFFFF;
+  font-size: 0.7142em;
+  text-transform: uppercase;
+  line-height: 1.625rem;
+  border-spacing: 5px;
+}
+
+.navbar .navbar-nav .nav-item select:focus {
+  border: 1px solid #FFFFFF;
+  background-color: transparent;
+  color: #FFFFFF;
+}
+
+.navbar .navbar-nav .nav-item select option {
+  background-color: #10206b;
+}
+
+.carousel-indicators li.active {
+  background-color: #10206B;
+}
+
+.carousel-indicators li {
+  background-color: rgba(16, 32, 107, 0.3);
+}
+
+.carousel-control-prev-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%2310206B' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+}
+
+.carousel-control-next-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%2310206B' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+}
+
+.carousel-indicators {
+  bottom: -5px;
+}
+
+ngx-gallery ngx-gallery-image .ngx-gallery-arrow {
+  /* your styles */
+  color: #10206B !important;
+}
+
+ngx-gallery ngx-gallery-thumbnails .ngx-gallery-arrow {
+  /* your styles */
+  color: #10206B !important;
+}
+
+.ng-select.flags {
+  border: 0px;
+  min-height: 0px;
+  border-radius: 0;
+}
+
+.ng-select.flags .ng-select-container {
+  background-color: transparent;
+  min-height: 0px;
+  width: 65px;
+}
+
+.ng-select.flags .ng-dropdown-panel {
+  background-color: transparent;
+}
+
+.ng-select.flags .ng-dropdown-panel .ng-dropdown-panel-items .ng-option {
+  background-color: transparent;
+}
+
+@media only screen and (max-width: 991px) {
+  .ng-select.flags {
+    margin: 0 1rem;
+    margin-top: 0.3125rem;
+    padding: 0.5rem 0.7rem;
+  }
+
+  .ng-select.flags .ng-dropdown-panel {
+    background-color: #ffffff2e;
+  }
+}

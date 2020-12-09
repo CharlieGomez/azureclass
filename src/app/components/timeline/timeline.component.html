@@ -1,0 +1,15 @@
+<div class="main-timeline p-1">
+    <div class="timeline" *ngFor="let exp of 'profile.expirence' | translate" data-aos="fade-up">
+        <div class="timeline-icon"><i class="fa fa-briefcase"></i></div>
+        <span class="year">{{exp.time}}</span>
+        <div class="timeline-content">
+            <h5 class="title">{{exp.title}}</h5>
+            <div class="" *ngFor="let company of exp.company">
+                <a class="company" [href]="company.website">{{company.name}}</a>
+            </div>
+            <li class="description" *ngFor="let description of exp.summary">
+                {{description}}
+            </li>
+        </div>
+    </div>
+</div>

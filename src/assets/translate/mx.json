@@ -1,0 +1,99 @@
+{
+    "about": "Sobre mi",
+    "skills": "Habilidades",
+    "portfolio": "Portafolio",
+    "experience": "Experiencias",
+    "contact": "Contacto",
+    "information": "Información",
+    "progSkill": "Habilidades",
+    "otherSkill": "Otras Habilidades",
+    "wExperience": "Experiencia Laboral",
+    "course": "Cursos",
+    "profile": {
+        "language": "Español, Inglés",
+        "cedula": "Ced. Prof. 10217032",
+        "about": "Desarrollador de software entusiasta con más de 5 años de experiencia en el análisis, desarrollo, implementación, testing y mantenimiento de aplicaciones web, de escritorio y móviles para la industria petrolera con tecnologías .NET, apasionado por las nuevas tecnologías, en BMPI desarrollamos una aplicación para generar reportes con estándares ASME, el tiempo de generación de un reporte se acorto en 75%.",
+        "expirence": [{
+                "title": "Administrador Microsip",
+                "time": "Dic 2018 - Abr 2020",
+                "company": [{
+                        "name": "BUFETE DE MANTENIMIENTO PREDICTIVO INDUSTRIAL",
+                        "website": "https://www.bmpindustrial.com"
+                    },
+                    {
+                        "name": "VEGGIES HEALTH DE MÉXICO",
+                        "website": "https://www.veggies.mx"
+                    }
+                ],
+                "summary": [
+                    "Capacitación al personal de uso de distintos módulos que presenta el sistema Microsip.",
+                    "Notificación de las actualizaciones que se aplicaran al sistema y cambios en el proceso.",
+                    "Aplicación de las actualizaciones a los equipos del personal.",
+                    "Monitoreo de uso del sistema, del servidor y bases de datos.",
+                    "Análisis y elaboración de aplicación automática para sincronización de información en las distintas empresas del corporativo aplicando .NET Core, EntityFramework Core, Firebird, SQL Server.",
+                    "Generación de backup de las distintas bases de datos.",
+                    "Administración y actualizaciones de los distintos permisos para el personal.",
+                    "Análisis y elaboración de dashboard de estados financieros, compras, facturas, gastos, costos, nómina de las distintas cuentas la empresa usando EntityFramework Core, Firebird, MariaDB, Data Studio Google.",
+                    "Administración de cuentas de timbrado de la empresa.",
+                    "Seguimientos a las dudas el personal y mejoras en el proceso interno.",
+                    "Administración de los websites."
+                ]
+            },
+            {
+                "title": "Programador Senior",
+                "time": "Oct 2017 - Abr 2020",
+                "company": [{
+                    "name": "BUFETE DE MANTENIMIENTO PREDICTIVO E INGENIERÍA",
+                    "website": "https://www.bmpi.com.mx"
+                }],
+                "summary": [
+                    "Análisis y desarrollo de software orientado a objectos para el uso interno y externo de personal abordo para el análisis, cálculos y presentación de reporte de estatus de vida, mediciones de equipos costa fuera y en tierra aplicando diversas especialidades de pruebas no destructivas.",
+                    "Análisis y desarrollo de software para el control de administrativo de las ordenes de servicio, personal, clientes, udcs, presupuestos y financieros.",
+                    "Administración y optimizaciones de bases de datos en SQL Server, Firebird, MySQL.",
+                    "Elaboración de diagramas de flujos de trabajo y diagramas de Gantt para demostrar los procesos.",
+                    "Monitoreo de bases de datos, sistemas y mantenimiento a los servidores.",
+                    "Diseño, implementación y monitoreo de páginas webs y sitios para una mejora continua.",
+                    "Coordinación del personal para la realización de actividades en los sistemas.",
+                    "Manejo de la atención a los usuarios por dudas, aclaraciones y/u soporte a uso de los sistemas.",
+                    "Acercamiento con los personal o clientes para realizar mejoras a los sistemas.",
+                    "Viajes a las ubicaciones o sectores donde encontrara el cliente o personal.",
+                    "Capacitaciones al personal del uso del sistema y sobre las actualizaciones realizadas.",
+                    "Se mejoro las operaciones con el uso de los sistemas y se brindó un excelente soporte al personal o cliente. ",
+                    "Desarrollo de módulos para el área administrativas y operativos.",
+                    "Análisis y desarrollo de tableros financieros, bancarios, compras.",
+                    "Administrador de los sistemas web, desktops, remotos del corporativo."
+
+                ]
+            },
+            {
+                "title": "Programador Jr",
+                "time": "Oct 2015 - Oct 2017",
+                "company": [{
+                    "name": "BUFETE DE MANTENIMIENTO PREDICTIVO E INGENIERÍA",
+                    "website": "https://www.bmpi.com.mx"
+                }],
+                "summary": [
+                    "Desarrollo de modulo de almacén para sistema interno.",
+                    "Elaboración de pantallas prototipos (Mock-up).",
+                    "Generación de consultas de base de datos en SQL Server.",
+                    "Elaboración de estructuras de datos.",
+                    "Desarrollo de aplicaciones desktop.",
+                    "Desarrollo de páginas web y sistemas internos.",
+                    "Generación de pruebas a los sistemas realizados."
+                ]
+            },
+            {
+                "title": "Practicas Profesionales",
+                "time": "Abr 2015 - Oct 2015",
+                "company": [{
+                    "name": "MEGASIS",
+                    "website": "https://www.megasis.com.mx"
+                }],
+                "summary": [
+                    "Desarrollo de modulo para obtención de información tales como precio, descripción del artículo, articulo, id, de los catálogos de los proveedores para el llenado y actualización del propio sistema con Pyhton.",
+                    "Desarrollo de página web con PHP."
+                ]
+            }
+        ]
+    }
+}

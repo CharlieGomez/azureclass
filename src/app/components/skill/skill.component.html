@@ -1,0 +1,66 @@
+<div class="section" id="skill">
+    <div class="container">
+        <div class="h4 text-center mb-4 title">{{ 'progSkill' | translate }}</div>
+        <div class="card" data-aos="fade-in" data-aos-duration="2000">
+            <div class="carousel slide carousel-fade" id="carouselIndicators" data-ride="carousel">
+                <ol class="carousel-indicators">
+                    <li data-target="#carouselIndicators" data-slide-to="0" class="active"></li>
+                    <li data-target=" #carouselIndicators " data-slide-to="1"></li>
+                    <!-- <li data-target=" #carouselIndicators " data-slide-to="2"></li> -->
+                </ol>
+                <div class="carousel-inner" data-aos="fade-in">
+                    <div class="carousel-item active" id="ci1" #ci1>
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="card-group progress-main">
+                                    <div class="p-item col-md-6" *ngFor="let skill of progSkills">
+                                        <div class="progress-container progress-principal"><span class="progress-badge"> {{ skill.name }} </span>
+                                            <div class="progress">
+                                                <div class="progress-bar progress-bar-principal" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" [ngStyle]="{'width': skill.value + '%'}"></div>
+                                                <span class="progress-value"> {{ skill.value }}% </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item" id="ci2" #ci2>
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="card-group progress-main">
+                                    <div class="p-item col-md-6" *ngFor="let skill of otherSkills ">
+                                        <div class="progress-container progress-principal "><span class="progress-badge "> {{ skill.name }} </span>
+                                            <div class="progress ">
+                                                <div class="progress-bar progress-bar-principal " data-aos="progress-full " data-aos-offset="10 " data-aos-duration="2000 " role="progressbar " aria-valuenow="0 " aria-valuemin="0 " aria-valuemax="100
+                                    " [ngStyle]="{ 'width': skill.value + '%'} "></div>
+                                                <span class="progress-value "> {{ skill.value }}% </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- <div class="carousel-item" id="ci3" #ci3>
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="card-group progress-main">
+                                    <div class="p-item col-md-6" *ngFor="let skill of otherSkills2 ">
+                                        <div class="progress-container progress-principal "><span class="progress-badge "> {{ skill.name }} </span>
+                                            <div class="progress ">
+                                                <div class="progress-bar progress-bar-principal " data-aos="progress-full " data-aos-offset="10 " data-aos-duration="2000 " role="progressbar " aria-valuenow="0 " aria-valuemin="0 " aria-valuemax="100
+                                  " [ngStyle]="{ 'width': skill.value + '%'} "></div>
+                                                <span class="progress-value "> {{ skill.value }}% </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div> -->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

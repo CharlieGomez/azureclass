@@ -1,0 +1,149 @@
+{
+    "profile": {
+        "name": "Carlos Gomez Juarez",
+        "titles": "Web Developer, Mobile Developer, Full Stack Developer",
+        "email": "inggomezjc@live.com.mx"
+    },
+    "prog_skill": [{
+            "name": "c++",
+            "value": "50"
+        }, {
+            "name": "c#",
+            "value": "90"
+        },
+        {
+            "name": "ccs",
+            "value": "75"
+        },
+        {
+            "name": "f#",
+            "value": "35"
+        },
+        {
+            "name": "html",
+            "value": "90"
+        },
+        {
+            "name": "java",
+            "value": "80"
+        },
+        {
+            "name": "javascript",
+            "value": "85"
+        },
+        {
+            "name": "json",
+            "value": "90"
+        },
+        {
+            "name": "linq",
+            "value": "85"
+        },
+        {
+            "name": "php",
+            "value": "75"
+        },
+        {
+            "name": "powershell",
+            "value": "30"
+        },
+        {
+            "name": "python",
+            "value": "50"
+        },
+        {
+            "name": "nosql",
+            "value": "80"
+        },
+
+        {
+            "name": "sql",
+            "value": "90"
+        },
+        {
+            "name": "typescript",
+            "value": "75"
+        }
+    ],
+    "other_skill": [{
+            "name": "bootstrap",
+            "value": "80"
+        },
+        {
+            "name": "angular",
+            "value": "70"
+        },
+        {
+            "name": "asp.net",
+            "value": "85"
+        },
+        {
+            "name": "asp.net core",
+            "value": "85"
+        },
+        {
+            "name": "asp.net mvc",
+            "value": "90"
+        },
+        {
+            "name": "blazor",
+            "value": "70"
+        }, {
+            "name": "entity framework",
+            "value": "90"
+        },
+        {
+            "name": "entity framework core",
+            "value": "85"
+        },
+        {
+            "name": "react native",
+            "value": "70"
+        },
+        {
+            "name": "mysql",
+            "value": "80"
+        },
+        {
+            "name": "sqlite",
+            "value": "85"
+        },
+        {
+            "name": "mongodb",
+            "value": "75"
+        },
+        {
+            "name": "sqlserver",
+            "value": "90"
+        },
+        {
+            "name": "firebase",
+            "value": "60"
+        },
+        {
+            "name": "firebird",
+            "value": "75"
+        }
+    ],
+    "other_skill2": [{
+            "name": "sql server reporting services",
+            "value": "85"
+        },
+        {
+            "name": "crystal report",
+            "value": "75"
+        },
+        {
+            "name": "microsoft report builder",
+            "value": "90"
+        },
+        {
+            "name": "internet information services",
+            "value": "90"
+        },
+        {
+            "name": "windows servers 2012 - 2019",
+            "value": "80"
+        }
+    ]
+}
