@@ -28,7 +28,7 @@
                         <li class="nav-item">
                             <ng-select class="flags" [searchable]="false" [clearable]="false" (change)="switchLang($event)" [ngModel]="flag">
                                 <ng-option *ngFor="let language of translate.getLangs()" [value]="language">
-                                    <img src="{{'https://www.countryflags.io/' + language + '/flat/64.png'}}">
+                                    <img src="../../../assets/profile/{{language}}.png" alt="Image" />
                                 </ng-option>
                             </ng-select>
                         </li>
